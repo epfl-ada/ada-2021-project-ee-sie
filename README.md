@@ -41,6 +41,7 @@ Each one of us will investigate one policy (gun laws, climate change…) by gene
     <li> <em>data_filtering</em>: from the loaded data of Quotebank’s drive, this notebook filters quotes of congress speakers that were in the 115th and 116th US congress (ie. that were in both meeting legislatures throughout the whole terms). </li>
     <li> <em>.csv</em> files: used to filter quotes as explained above </li>
   </ul>
+  
   <li> <em>analysis</em>: folder that contains our initial analysis regarding our project </li>
   <ul>
     <li> <em>initial_analysis_climate</em>: notebook that contains the initial analysis regarding the issue of climate according to the three research questions defined above, done to understand what was in the data and gave us clues about how to transform the data </li>
