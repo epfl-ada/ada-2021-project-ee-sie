@@ -1,4 +1,4 @@
-# Political Differentiations on policies in the US congress
+# Political Differentiations on Main Political Subjects in US Congress
 
 ### Abstract
 To what extent do politicians' opinions differentiate on major issues? Gun policy, illegal immigration, abortion and climate change are examples of subjects for debate that tend to divide lawmakers. It appears interesting to analyse to what extent there is an ideological split between different parties (Republican, Democrats), that is identifiable in quotes of politicians. Throughout this journey, it is planned to explore three to four themes, depending on the conclusivity of our results. The subjectivity of quotes will be analysed per party and in addition, a quantitative analysis will be done to present interesting facts on the chosen themes.
@@ -51,4 +51,5 @@ Each one of us will investigate one policy (gun laws, climate change…) by gene
 
 ### Questions
 Should we take into account the subjectivity of newspapers? Newspapers tend to have a political affiliation but can we simply assume that overall, quotes said from members of one party to be representative of the whole party?
-Do you have any clues on how we can quantify the accuracy of the natural language toolkit, if needed?
+
+Also, do you have any clues on how we can quantify the accuracy of the natural language toolkit, if needed?
