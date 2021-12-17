@@ -39,6 +39,21 @@ Nina: Preliminary visualisation, running tests with sentimental analysis<br/>
  
 
 ### File descriptions on git
-<ul>
-  <li> <em>analysis_complete.pynb</em>: Single notebook supporting all required analyses to investigate the research question including data loading, analyses (document classification and sentiment analyses) and production of plots for the datastory
+
+  <li> <em>analysis_complete.pynb</em>: Single notebook supporting all required analyses to investigate the research question including data loading, analyses (document classification and sentiment analyses) and production of plots for the datastory</li>
     
+  <li> <em>dataset_extraction</em>: folder that contains the csv files of our dataset (quotes from US congressmen from 2016 to 2020. </li>
+    <ul>
+
+   <li> <em>data_filtering</em>: from the loaded data of Quotebank’s drive, this notebook filters quotes of congress speakers that were in the 115th and 116th US congress (ie. that were in both meeting legislatures throughout the whole terms). </li>
+    <li> <em>.csv</em> files: used to filter quotes as explained above </li>
+  </ul>
+
+  
+  <li> <em>analysis</em>: folder that contains our initial analysis regarding our project </li>  
+  <ul>
+    <li> <em>initial_analysis_climate</em>: notebook that contains the initial analysis regarding the issue of climate according to the three research questions defined above, done to understand what was in the data and gave us clues about how to transform the data </li>
+    <li> <em>observational_studies</em>: notebook that contains initial observational study analysis on the dataset, focusing on finding covariates that may have some influence on our results. The quotes are not taken into account as we only try to analyse the integrity of the dataset we generated. </li>
+    <li> <em>visualization_analysis</em>: folder that contains primary visual description of the dataset for each year to discover its structure and quantify values and influences of attributes of interest (e.g. political party, gender, age) </li>
+  
+</ul>
