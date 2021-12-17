@@ -1,6 +1,5 @@
 
-# Political Differences on Main Political Subjects in US Congress
-
+# Ideological split on political issues in US congress
 [URL to the datastory](https://medium.com/@badrlarhdir7/political-differentiations-on-main-political-subjects-in-us-congress-87495667c171)
 
 ### Abstract
