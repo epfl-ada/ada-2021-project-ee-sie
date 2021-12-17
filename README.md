@@ -2,6 +2,8 @@ README
 
 # Political Differences on Main Political Subjects in US Congress
 
+[URL to the datastory](https://medium.com/@badrlarhdir7/political-differentiations-on-main-political-subjects-in-us-congress-87495667c171)
+
 ### Abstract
 Gun policy, immigration, and climate change are examples of subjects for debate that tend to divide lawmakers. Throughout this data story, the goal is to analyze to what extent there is an ideological split in the quotes related by Quotebank between the two political parties. Note that only the quotes of politicians that were part of Congress from 2016 to 2020 were selected.
 
