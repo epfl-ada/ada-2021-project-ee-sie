@@ -1,4 +1,3 @@
-README
 
 # Political Differences on Main Political Subjects in US Congress
 
